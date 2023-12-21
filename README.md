@@ -1,5 +1,5 @@
 # LAB 5
-Este repositorio es para el Laboratorio 4 de la asignatura HPC-Bio.
+Este repositorio es para el Laboratorio 5 de la asignatura HPC-Bio.
 
 # Contenido
 Archivos de código
