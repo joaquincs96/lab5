@@ -1,0 +1,8 @@
+# Informe del laboratorio 5 Computación en la nube Joaquín Cantón
+
+Este laboratorio ha sido más un tutorial de Docker que una práctica como tal, cosa que he agradecido mucho y me ha ayudado
+de cara a su realización. Creo que todos los pasos realizados están muy bien explicados en el boletín del laboratorio, 
+y no me han dejado muchas dudas, incluso en la parte extra. Al final de la práctica he conseguido entender lo que son los 
+contenedores Docker y cómo funcionan, y la verdad que me ha parecido muy interesante de cara al futuro. 
+En Dockerhub hay muchas imágenes disponibles de las que podemos hacer uso y a las que podemos sacar partido, y creo que 
+es algo que me va a poder servir de mucho en el futuro. 
